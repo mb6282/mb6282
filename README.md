@@ -1,7 +1,7 @@
 # 정회지 — Backend Developer
 
 - 📧 Email: marbea6282@gmail.com / ghlwl6282@gmail.com
-- 💻 GitHub: [https://github.com/hong-dev](https://github.com/hong-dev)
+- 💻 GitHub: [https://github.com/mb6282](https://github.com/mb6282)
 - 📝 Blog: [https://velog.io/@marbea6282/posts](https://velog.io/@marbea6282/posts)
 
 ---
@@ -22,7 +22,7 @@ Git과 GitHub을 통한 협업, 기술 블로그 작성 등을 통해 꾸준히 
 
 ### Language
 
-- Java 17, Java Stream API, Lambda
+- Java 16, Java Stream API, Kotlin, Python
 
 ### Backend
 
@@ -36,13 +36,13 @@ Git과 GitHub을 통한 협업, 기술 블로그 작성 등을 통해 꾸준히 
 
 ### DevOps / Infra
 
-- AWS EC2, S3, RDS
-- GitHub Actions 기반 CI/CD 경험
+- AWS EC2, RDS
+- GitHub 기반 CI/CD 경험
 - 간단한 Docker Compose 활용 경험
 
 ### Tools
 
-- Git/GitHub, IntelliJ, Postman, Swagger, Notion
+- Git/GitHub, VSC, Jupyter Notebook, Notion
 
 ---
 
@@ -64,7 +64,7 @@ Git과 GitHub을 통한 협업, 기술 블로그 작성 등을 통해 꾸준히 
 
 ---
 
-### 📂 TodoFlow (개인 프로젝트)
+### 📂 TodoFlow (개인 프로젝트) #예시 #안했지만 2025년 내로 개인 토이프로젝트 할 예정
 
 **2025.08 ~ 2025.09**  
 **GitHub:** [https://github.com/hong-dev/todoflow](https://github.com/hong-dev/todoflow)
@@ -95,8 +95,7 @@ Git과 GitHub을 통한 협업, 기술 블로그 작성 등을 통해 꾸준히 
 
 ## 📄 Certification
 
-- **자격증1** — `202?.??`
-- **정보처리기사** — `202?.??`
+- **자격증1** — `202?.??'
 - **TOEIC 900점** — `202?.??`
 - **OPIc ?? 취득** — `202?.??`
 
@@ -104,28 +103,30 @@ Git과 GitHub을 통한 협업, 기술 블로그 작성 등을 통해 꾸준히 
 
 ## 🎓 Education
 
-- **그린컴퓨터아카데미 [NCS]** — [ 수강과정명 ] 수료  
+- **그린컴퓨터아카데미 [NCS]** — '자바&Springboot 크로스 플랫폼(풀스택)융합 응용SW 개발자 양성과정' 수료  
+  `2022.07 – 2022.012`
+- **SSAFY 14기 ** — [ 수강과정명 ] 수료  
   `2022.07 – 2022.012`
 
 ---
 
-## 🏁 CODING TEST
+## 🏁 CODING TEST #예시 #차후 업데이트 예정
 
-- **백준**: [ ] 수준 알고리즘 풀이
+- ~~**백준**: [ ] 수준 알고리즘 풀이~~
   
-- **프로그래머스**: DFS/BFS, 해시, 정렬 등 실전 유형 풀이
+- ~~**프로그래머스**: DFS/BFS, 해시, 정렬 등 실전 유형 풀이~~
   
-- **CS 지식 정리**: 운영체제, 네트워크, 데이터베이스, JVM 등 블로그 30편 이상 정리
+- ~~**CS 지식 정리**: 운영체제, 네트워크, 데이터베이스, JVM 등 블로그 30편 이상 정리~~
   
-- GitHub 알고리즘 풀이 레포지토리 운영 중
+- ~~GitHub 알고리즘 풀이 레포지토리 운영 중~~
   
 
 ---
 
 ## ✍️ Blog & GitHub
 
-- 📘 **기술 블로그**: [hong-dev.log](https://[ ]-dev.tistory.com)
-- 🛠 **GitHub 주요 레포지토리**
+- 📘 **기술 블로그**: [https://velog.io/@marbea6282/posts](https://velog.io/@marbea6282/posts)
+- 🛠 ~~**GitHub 주요 레포지토리**~~
   - [DevLog - 팀 프로젝트](https://github.com/[ ]-dev/devlog)
   - [TodoFlow - 개인 프로젝트](https://github.com/[ ]-dev/todoflow)
   - [Algorithm 풀이 기록](https://github.com/[ ]-dev/algorithm-study)
